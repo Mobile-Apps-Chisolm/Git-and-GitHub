@@ -1,5 +1,8 @@
 # Welcome to Module 3: GitHub Classroom
 
+*Module 3 is yet to be revised*. As a result, it is still specific to teachers and much less relevent for students. If students or teachers would like to make suggestions on what should be included in the new student version, please share your ideas.
+___
+
 Welcome to Module 3! In this module, you will be introduced to GitHub Classroom. You will learn:
 - How to automate and scale your classes 
 - The best practices for getting insight into student work
