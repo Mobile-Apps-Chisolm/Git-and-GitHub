@@ -30,6 +30,7 @@ If you are using Windows, and new to the command-line, I would recommend followi
 $ git config --global user.name "FirstName LastName"
 $ git config --global user.email "email@example.com"
 ```
+** Sometimes, Replit will reload and you will need to run the above two commands again.
 Git will use this information when you work on a project.
 
 ## Submission
