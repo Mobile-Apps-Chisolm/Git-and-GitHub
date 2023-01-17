@@ -25,7 +25,7 @@ If you are using Windows, and new to the command-line, I would recommend followi
 - [VS Code Setup Instructions for Windows](https://code.visualstudio.com/docs/setup/windows)
 - // ADD LINK TO INSTRUCTIONS TO SWITCH FROM POWERSHELL
 
-5. Make sure to set Git with your name and email address using the following commands on the command-line with your name and email address:
+3. Make sure to set Git with your name and email address using the following commands on the command-line (i.e. Shell) with your name and email address:
 ```
 $ git config --global user.name "FirstName LastName"
 $ git config --global user.email "email@example.com"
